@@ -1,6 +1,6 @@
 # Tanmoy Pal   
 
-[tanmoy@bu.edu](mailto:tanmoy@bu.edu) | [linkedin](https://www.linkedin.com/in/tanmoypal/) | [website](http://8tanmoy.github.io) | [github](http://github.com/8tanmoy) | [pdf](/docs/tanmoy_cv.pdf)  
+[tanmoy@bu.edu](mailto:tanmoy@bu.edu) | [linkedin](https://www.linkedin.com/in/tanmoypal/) | [website](https://tanmoy.io) | [github](http://github.com/8tanmoy) | [pdf](/docs/tanmoy_cv.pdf)  
   
   
 ## Education
@@ -28,7 +28,7 @@
   
 > 1. [Qiang Cui, Tanmoy Pal, and Luke Xie. “Biomolecular QM/MM Simulations: What Are Some of the “Burning Issues”?” In: The Journal of Physical Chemistry B 125.3 (2021). PMID: 33401903, pp. 689–702.](http://dx.doi.org/10.1021/acs.jpcb.0c09898)  
 >  
-> 2. Interfacial Polarization and Ionic Structure at the Ionic Liquid-Metal Interface Studied by Vibrational Spectroscopy and Molecular Dynamics Simulations, _Matthew J. Voegtle, Tanmoy Pal, Anuj K. Pennathur, Sevan Menachekanian, Joel G. Patrow, Sohini Sarkar, Qiang Cui, and Jahan M.Dawlaty, J. Phys. Chem. A, Submitted.  
+> 2. Interfacial Polarization and Ionic Structure at the Ionic Liquid-Metal Interface Studied by Vibrational Spectroscopy and Molecular Dynamics Simulations, _Matthew J. Voegtle, Tanmoy Pal, Anuj K. Pennathur, Sevan Menachekanian, Joel G. Patrow, Sohini Sarkar, Qiang Cui, and Jahan M.Dawlaty, J. Phys. Chem. B, Accepted.  
 >  
   
 
